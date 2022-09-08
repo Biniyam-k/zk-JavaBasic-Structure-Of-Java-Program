@@ -1,8 +1,8 @@
 # JavaBasic-Structure-of-Java-Program
 
-## public class hello 
+## public class Main 
 
-            this creates a class called hello\.
+            this creates a class called Main\.
             all class names must start with a capital letter\.
             the public word means that it is accessible from any other classes\.
 
